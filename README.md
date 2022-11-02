@@ -19,10 +19,10 @@
     <img src="./img/Thinkjs.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Theory-JS</h3>
+  <h3 align="center">Botnet - Application</h3>
 
   <p align="center">
-    personal_botnets is a CLI tool to help you quickly save your thoughts directly from your terminal.
+    A botnet is a group of Internet-connected devices, each of which runs one or more bots. Botnets can be used to perform Distributed Denial-of-Service attacks, steal data, send spam, and allow the attacker to access the device and its connection. The owner can control the botnet using command and control software. 
     <br />
     <a href="https://github.com/kanitmann/personal_botnets"><strong>Explore the docs »</strong></a>
     <br />
@@ -64,8 +64,6 @@
 
 ## About The Project
 
-[![personal_botnets][product-screenshot]](https://github.com/kanitmann/personal_botnets)
-
 ### Built With
 
 -   [NodeJS](https://nodejs.org/en/)
@@ -87,42 +85,11 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Clone the repo
-    ```sh
-    git clone https://github.com/kanitmann/personal_botnets.git
-    ```
-2. Install NPM packages
-    ```sh
-    npm install
-    ```
-3. Install `personal_botnets` package as global package
-    ```sh
-    npm install -g .
-    ```
-    [![personal_botnets][product-installation]](https://github.com/kanitmann/personal_botnets)
-    <!-- USAGE EXAMPLES -->
+TBA
 
 ## Usage
 
-After installing the package, you can easily open the help menu by typing `personal_botnets --help` in the terminal.
-
--   Running the help menu on terminal
-
-    ```sh
-    theory --help
-    ```
-
-    [![personal_botnets][product-screenshot]](https://github.com/kanitmann/personal_botnets)
-
--   Writing memo to a file
-    ```sh
-    theory -m "This is a test"
-    ```
-    [![personal_botnets][product-screenshot2]](https://github.com/kanitmann/personal_botnets)
-
-A 'memo folder' is created once you run `personal_botnets -m` for the first time.
-
-[![personal_botnets][product-screenshot3]](https://github.com/kanitmann/personal_botnets)
+TBA
 
 <!-- ROADMAP -->
 
